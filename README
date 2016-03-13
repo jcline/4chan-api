@@ -1,0 +1,14 @@
+4chan-api
+
+Helpers for using the 4chan API.
+
+Currently just provides support for loading threads and parsing the results
+into a useful struct.
+
+Example usage at https://github.com/jcline/4chan-scraper
+
+Todo:
+
+ - Support image and thumbnail endpoints
+ - Support boards and indexes endpoints?
+
